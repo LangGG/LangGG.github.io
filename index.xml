@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://lactic-h.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Langgg</title>
+    <link>https://langgg.github.io/</link>
+    <description>Recent content on Langgg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Mar 2019 15:21:58 +0800</lastBuildDate>
     
-	<atom:link href="http://lactic-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://langgg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://lactic-h.github.io/posts/my-first-post/</link>
+      <link>https://langgg.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 02 Mar 2019 15:21:58 +0800</pubDate>
       
-      <guid>http://lactic-h.github.io/posts/my-first-post/</guid>
-      <description>#试一试
+      <guid>https://langgg.github.io/posts/my-first-post/</guid>
+      
+        <description>#试一试
 所谓的所见即所得
 #如果是即时改动呢
 有点厉害</description>
+      
     </item>
     
   </channel>

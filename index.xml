@@ -6,10 +6,23 @@
     <description>Recent content on Langgg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 15:21:58 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
         <atom:link href="https://langgg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://langgg.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://langgg.github.io/about/</guid>
+      
+        <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      
+    </item>
     
     <item>
       <title>My First Post</title>
@@ -22,6 +35,18 @@
 所谓的所见即所得
 #如果是即时改动呢
 有点厉害</description>
+      
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://langgg.github.io/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://langgg.github.io/posts/goisforlovers/</guid>
+      
+        <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
       
     </item>
     
